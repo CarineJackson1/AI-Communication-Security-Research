@@ -1,6 +1,4 @@
 ---
-
-```markdown
 # AI Communication Patterns & Security Vulnerabilities Research
 
 ## Overview
@@ -58,14 +56,5 @@ traditional testing misses.
 ---
 
 *Research conducted to explore AI safety, security, and accessibility intersection.*
-```
 
-
-
-```markdown
-### 🚨 **AI Communication Patterns & Security Vulnerabilities** ⭐ FEATURED
-[**View Project Repository →**](https://github.com/CarineJackson1/AI-Communication-Security-Research)
-```
 ---
-
-**You're all set!** Your GitHub is now positioned to showcase authentic, rigorous research work that will genuinely impress recruiters and demonstrate your thinking.# AI
