@@ -1,4 +1,3 @@
----
 # AI Communication Patterns & Security Vulnerabilities Research
 
 ## Overview
@@ -56,5 +55,3 @@ traditional testing misses.
 ---
 
 *Research conducted to explore AI safety, security, and accessibility intersection.*
-
----
