@@ -44,6 +44,7 @@ traditional testing misses.
 - `data/testing_results.csv` - Raw testing data
 - `analysis/analysis.py` - Python analysis scripts
 - `analysis/findings.md` - Key insights from data analysis
+ - `docs/python-environment-snippet.md` - Recommended Python/pip workflow (venv, python -m pip, aliases)
 
 ## Next Steps
 - Complete testing phase
